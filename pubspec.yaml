@@ -36,6 +36,7 @@ dependencies:
   image_picker: ^1.0.7
   flutter_markdown_selectionarea: ^0.6.17+1
   url_launcher: ^6.3.0
+  gh_pages: ^0.1.1
 dev_dependencies:
   flutter_test:
     sdk: flutter

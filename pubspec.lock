@@ -144,6 +144,22 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  gh_pages:
+    dependency: "direct main"
+    description:
+      name: gh_pages
+      sha256: "18177f85446ea944aa2f11784632ef412b5b86c93c68daa68b4e0438e95641a2"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.1.1"
+  git:
+    dependency: transitive
+    description:
+      name: git
+      sha256: "46556ed28a3b25b1be9bcde0291d84a57b206a899f8b37bf7ab335d8fb640e84"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.3.2"
   google_generative_ai:
     dependency: "direct main"
     description:
